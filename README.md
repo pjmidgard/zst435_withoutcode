@@ -1,35 +1,24 @@
-# Portal-zst
-
+Portal-zst
 https://youtu.be/Ne82lgXQPFY
 
-Speed: Area 100B-1KB Absolute 2KB Ultra 2MB-10MB Max 8GB-80GB/s
+Speed: Area 100B-1KB/s
 
 Instruction:
-1. Need python 
-2. install pip: pip install zstandard
-3.
 
-cld, cld3; cldd, cldd3 .bin.bin.bin.bin.bin.bin.bin
-
-ul, cld, cld3; cl, cldd, cldd3 .bin.bin.bin.bin.bin.bin.bin.bin
-
+Need python
+install pip: pip install zstandard
 ul; cl; .bin
 
-cld ; cldd .bin.bin
-
-ul, cld; cl, cldd .bin.bin.bin
-
-ul5, cld, cld3; cl5, cldd, cldd3 .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
-
-ul5, cld; cl5, cldd .bin.bin.bin.bin.bin.bin
-
-ul4, cld, cld3; cl4, cldd, cldd3  .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
-
-ul4, cld; cl4, cldd .bin.bin.bin.bin.bin
-
-c; u .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
-
-c2; u2 .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
-
+c2; u2 .bin.bin
 
 Jurijus Pacalovas written program.
+
+4.35 v. zst
+
+0%-99.9949% c.
+
+Cryptography
+
+zst
+
+Lossless data compression
