@@ -1,7 +1,7 @@
 Portal-zst
 https://youtu.be/Ne82lgXQPFY
 
-Speed: Area 100B-1KB/s
+Speed: Area 100B-2KB/s
 
 Instruction:
 
